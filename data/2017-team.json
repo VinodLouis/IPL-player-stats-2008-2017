@@ -1,0 +1,2570 @@
+{
+  "tournamentId": {
+    "id": 5815,
+    "name": "ipl2017"
+  },
+  "squads": [
+    {
+      "team": {
+        "id": 3,
+        "fullName": "Delhi Daredevils",
+        "shortName": "Daredevils",
+        "abbreviation": "DD",
+        "primaryColor": "B22E2A",
+        "secondaryColor": "FFFFFF",
+        "type": "m",
+        "typeString": "m"
+      },
+      "players": [
+        {
+          "id": 165,
+          "fullName": "Zaheer Khan",
+          "shortName": "Z Khan",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 276566400000,
+          "names": [
+            "Zaheer Khan",
+            "Z Khan"
+          ]
+        },
+        {
+          "id": 3823,
+          "fullName": "Ankit Bawne",
+          "shortName": "A Bawne",
+          "nationality": "Indian",
+          "bowlingStyle": "OFF_SPIN",
+          "dateOfBirth": 724550400000,
+          "names": [
+            "Ankit Bawne",
+            "A Bawne"
+          ]
+        },
+        {
+          "id": 2964,
+          "fullName": "Khaleel Ahmed",
+          "shortName": "K Ahmed",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 881280000000,
+          "names": [
+            "Khaleel Ahmed",
+            "K Ahmed"
+          ]
+        },
+        {
+          "id": 968,
+          "fullName": "Corey Anderson",
+          "shortName": "C Anderson",
+          "nationality": "New Zealander",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 661046400000,
+          "names": [
+            "Corey Anderson",
+            "C Anderson"
+          ]
+        },
+        {
+          "id": 3187,
+          "fullName": "Murugan Ashwin",
+          "shortName": "M Ashwin",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 652752000000,
+          "names": [
+            "Murugan Ashwin",
+            "M Ashwin"
+          ]
+        },
+        {
+          "id": 2756,
+          "fullName": "Sam Billings",
+          "shortName": "S Billings",
+          "nationality": "English",
+          "dateOfBirth": 676944000000,
+          "names": [
+            "Sam Billings",
+            "S Billings"
+          ]
+        },
+        {
+          "id": 2722,
+          "fullName": "Carlos Brathwaite",
+          "shortName": "C Brathwaite",
+          "nationality": "West Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 585187200000,
+          "names": [
+            "Carlos Brathwaite",
+            "C Brathwaite"
+          ]
+        },
+        {
+          "id": 488,
+          "fullName": "Pat Cummins",
+          "shortName": "P Cummins",
+          "nationality": "Australian",
+          "bowlingStyle": "FAST_SEAM",
+          "dateOfBirth": 736819200000,
+          "names": [
+            "Pat Cummins",
+            "P Cummins"
+          ]
+        },
+        {
+          "id": 17,
+          "fullName": "Ben Hilfenhaus",
+          "shortName": "B Hilfenhaus",
+          "nationality": "Australian",
+          "dateOfBirth": 416534400000,
+          "names": [
+            "Ben Hilfenhaus",
+            "B Hilfenhaus"
+          ]
+        },
+        {
+          "id": 1563,
+          "fullName": "Shreyas Iyer",
+          "shortName": "S Iyer",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 786672000000,
+          "names": [
+            "Shreyas Iyer",
+            "S Iyer"
+          ]
+        },
+        {
+          "id": 217,
+          "fullName": "Angelo Mathews",
+          "shortName": "A Mathews",
+          "nationality": "Sri Lankan",
+          "dateOfBirth": 549590400000,
+          "names": [
+            "Angelo Mathews",
+            "A Mathews"
+          ]
+        },
+        {
+          "id": 1559,
+          "fullName": "CV Milind",
+          "shortName": "CV Milind",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 778636800000,
+          "names": [
+            "CV Milind",
+            "CV Milind"
+          ]
+        },
+        {
+          "id": 30,
+          "fullName": "Amit Mishra",
+          "shortName": "A Mishra",
+          "nationality": "Indian",
+          "dateOfBirth": 406944000000,
+          "names": [
+            "Amit Mishra",
+            "A Mishra"
+          ]
+        },
+        {
+          "id": 94,
+          "fullName": "Mohammed Shami",
+          "shortName": "M Shami",
+          "nationality": "Indian",
+          "dateOfBirth": 636940800000,
+          "names": [
+            "Mohammed Shami",
+            "M Shami"
+          ]
+        },
+        {
+          "id": 836,
+          "fullName": "Chris Morris",
+          "shortName": "C Morris",
+          "nationality": "South African",
+          "bowlingStyle": "FAST_SEAM",
+          "dateOfBirth": 546739200000,
+          "names": [
+            "Chris Morris",
+            "C Morris"
+          ]
+        },
+        {
+          "id": 57,
+          "fullName": "Shahbaz Nadeem",
+          "shortName": "S Nadeem",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 618883200000,
+          "names": [
+            "Shahbaz Nadeem",
+            "S Nadeem"
+          ]
+        },
+        {
+          "id": 276,
+          "fullName": "Karun Nair",
+          "shortName": "K Nair",
+          "nationality": "Indian",
+          "dateOfBirth": 691977600000,
+          "names": [
+            "Karun Nair",
+            "K Nair"
+          ]
+        },
+        {
+          "id": 2972,
+          "fullName": "Rishabh Pant",
+          "shortName": "R Pant",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 875923200000,
+          "names": [
+            "Rishabh Pant",
+            "R Pant"
+          ]
+        },
+        {
+          "id": 2731,
+          "fullName": "Pratyush Singh",
+          "shortName": "P Singh",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 778636800000,
+          "names": [
+            "Pratyush Singh",
+            "P Singh"
+          ]
+        },
+        {
+          "id": 1664,
+          "fullName": "Kagiso Rabada",
+          "shortName": "K Rabada",
+          "nationality": "South African",
+          "rightHandedBat": false,
+          "dateOfBirth": 801360000000,
+          "names": [
+            "Kagiso Rabada",
+            "K Rabada"
+          ]
+        },
+        {
+          "id": 3824,
+          "fullName": "Navdeep Saini",
+          "shortName": "N Saini",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 722476800000,
+          "names": [
+            "Navdeep Saini",
+            "N Saini"
+          ]
+        },
+        {
+          "id": 258,
+          "fullName": "Sanju Samson",
+          "shortName": "S Samson",
+          "nationality": "Indian",
+          "dateOfBirth": 784512000000,
+          "names": [
+            "Sanju Samson",
+            "S Samson"
+          ]
+        },
+        {
+          "id": 3261,
+          "fullName": "Shashank Singh",
+          "shortName": "S Singh",
+          "nationality": "Indian",
+          "bowlingStyle": "OFF_SPIN",
+          "dateOfBirth": 690681600000,
+          "names": [
+            "Shashank Singh",
+            "S Singh"
+          ]
+        },
+        {
+          "id": 99,
+          "fullName": "Aditya Tare",
+          "shortName": "A Tare",
+          "nationality": "Indian",
+          "dateOfBirth": 1330300800000,
+          "names": [
+            "Aditya Tare",
+            "A Tare"
+          ]
+        },
+        {
+          "id": 1740,
+          "fullName": "Jayant Yadav",
+          "shortName": "J Yadav",
+          "nationality": "Indian",
+          "dateOfBirth": 632966400000,
+          "names": [
+            "Jayant Yadav",
+            "J Yadav"
+          ]
+        },
+        {
+          "id": 272,
+          "fullName": "Marlon Samuels",
+          "shortName": "M Samuels",
+          "nationality": "West Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 347500800000,
+          "names": [
+            "Marlon Samuels",
+            "M Samuels"
+          ]
+        }
+      ],
+      "captainId": 165,
+      "id": 1083
+    },
+    {
+      "team": {
+        "id": 4,
+        "fullName": "Kings XI Punjab",
+        "shortName": "Kings XI",
+        "abbreviation": "KXIP",
+        "primaryColor": "DA1F3D",
+        "secondaryColor": "FFFFFF",
+        "type": "m",
+        "typeString": "m"
+      },
+      "players": [
+        {
+          "id": 61,
+          "fullName": "Varun Aaron",
+          "shortName": "V Aaron",
+          "nationality": "Indian",
+          "dateOfBirth": 625622400000,
+          "names": [
+            "Varun Aaron",
+            "V Aaron"
+          ]
+        },
+        {
+          "id": 456,
+          "fullName": "Hashim Amla",
+          "shortName": "H Amla",
+          "nationality": "South African",
+          "dateOfBirth": 417916800000,
+          "names": [
+            "Hashim Amla",
+            "H Amla"
+          ]
+        },
+        {
+          "id": 412,
+          "fullName": "Anureet Singh",
+          "shortName": "Anureet Singh",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 383529600000,
+          "names": [
+            "Anureet Singh",
+            "Anureet Singh"
+          ]
+        },
+        {
+          "id": 2966,
+          "fullName": "Armaan Jaffer",
+          "shortName": "A Jaffer",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 909273600000,
+          "names": [
+            "Armaan Jaffer",
+            "A Jaffer"
+          ]
+        },
+        {
+          "id": 2743,
+          "fullName": "KC Cariappa",
+          "shortName": "KC Cariappa",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 766195200000,
+          "names": [
+            "KC Cariappa",
+            "KC Cariappa"
+          ]
+        },
+        {
+          "id": 431,
+          "fullName": "Martin Guptill",
+          "shortName": "M Guptill",
+          "nationality": "New Zealander",
+          "dateOfBirth": 528422400000,
+          "names": [
+            "Martin Guptill",
+            "M Guptill"
+          ]
+        },
+        {
+          "id": 253,
+          "fullName": "Gurkeerat Mann Singh",
+          "shortName": "GM Singh",
+          "nationality": "Indian",
+          "bowlingStyle": "OFF_SPIN",
+          "dateOfBirth": 646617600000,
+          "names": [
+            "Gurkeerat Mann Singh",
+            "GM Singh"
+          ]
+        },
+        {
+          "id": 1505,
+          "fullName": "Matt Henry",
+          "shortName": "M Henry",
+          "nationality": "New Zealander",
+          "rightArmBowl": false,
+          "dateOfBirth": 692668800000,
+          "names": [
+            "Matt Henry",
+            "M Henry"
+          ]
+        },
+        {
+          "id": 191,
+          "fullName": "Shaun Marsh",
+          "shortName": "S Marsh",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 426556800000,
+          "names": [
+            "Shaun Marsh",
+            "S Marsh"
+          ]
+        },
+        {
+          "id": 282,
+          "fullName": "Glenn Maxwell",
+          "shortName": "G Maxwell",
+          "nationality": "Australian",
+          "bowlingStyle": "OFF_SPIN",
+          "dateOfBirth": 592790400000,
+          "names": [
+            "Glenn Maxwell",
+            "G Maxwell"
+          ]
+        },
+        {
+          "id": 187,
+          "fullName": "David Miller",
+          "shortName": "D Miller",
+          "nationality": "South African",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 613440000000,
+          "names": [
+            "David Miller",
+            "D Miller"
+          ]
+        },
+        {
+          "id": 197,
+          "fullName": "Eoin Morgan",
+          "shortName": "E Morgan",
+          "nationality": "English",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 526694400000,
+          "names": [
+            "Eoin Morgan",
+            "E Morgan"
+          ]
+        },
+        {
+          "id": 2732,
+          "fullName": "Nikhil Naik",
+          "shortName": "N Naik",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 784339200000,
+          "names": [
+            "Nikhil Naik",
+            "N Naik"
+          ]
+        },
+        {
+          "id": 3831,
+          "fullName": "T Natarajan",
+          "shortName": "T Natarajan",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 675302400000,
+          "names": [
+            "T Natarajan",
+            "T Natarajan"
+          ]
+        },
+        {
+          "id": 1113,
+          "fullName": "Axar Patel",
+          "shortName": "A Patel",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 759024000000,
+          "names": [
+            "Axar Patel",
+            "A Patel"
+          ]
+        },
+        {
+          "id": 16,
+          "fullName": "Wriddhiman Saha",
+          "shortName": "W Saha",
+          "nationality": "Indian",
+          "dateOfBirth": 467424000000,
+          "names": [
+            "Wriddhiman Saha",
+            "W Saha"
+          ]
+        },
+        {
+          "id": 2745,
+          "fullName": "Pradeep Sahu",
+          "shortName": "P Sahu",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 493430400000,
+          "names": [
+            "Pradeep Sahu",
+            "P Sahu"
+          ]
+        },
+        {
+          "id": 589,
+          "fullName": "Darren Sammy",
+          "shortName": "D Sammy",
+          "nationality": "West Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 440726400000,
+          "names": [
+            "Darren Sammy",
+            "D Sammy"
+          ]
+        },
+        {
+          "id": 38,
+          "fullName": "Ishant Sharma",
+          "shortName": "I Sharma",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 589161600000,
+          "names": [
+            "Ishant Sharma",
+            "I Sharma"
+          ]
+        },
+        {
+          "id": 1112,
+          "fullName": "Sandeep Sharma",
+          "shortName": "Sandeep Sharma",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 737683200000,
+          "names": [
+            "Sandeep Sharma",
+            "Sandeep Sharma"
+          ]
+        },
+        {
+          "id": 1107,
+          "fullName": "Mohit Sharma",
+          "shortName": "M Sharma",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 693100800000,
+          "names": [
+            "Mohit Sharma",
+            "M Sharma"
+          ]
+        },
+        {
+          "id": 3830,
+          "fullName": "Rinku Singh",
+          "shortName": "R Singh",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 876614400000,
+          "names": [
+            "Rinku Singh",
+            "R Singh"
+          ]
+        },
+        {
+          "id": 964,
+          "fullName": "Marcus Stoinis",
+          "shortName": "MP Stoinis",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "dateOfBirth": 619228800000,
+          "names": [
+            "Marcus Stoinis",
+            "MP Stoinis"
+          ]
+        },
+        {
+          "id": 3180,
+          "fullName": "Swapnil Singh",
+          "shortName": "S Singh",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 664502400000,
+          "names": [
+            "Swapnil Singh",
+            "S Singh"
+          ]
+        },
+        {
+          "id": 1749,
+          "fullName": "Rahul Tewatia",
+          "shortName": "R Tewatia",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 737856000000,
+          "names": [
+            "Rahul Tewatia",
+            "R Tewatia"
+          ]
+        },
+        {
+          "id": 1085,
+          "fullName": "Manan Vohra",
+          "shortName": "M Vohra",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 742953600000,
+          "names": [
+            "Manan Vohra",
+            "M Vohra"
+          ]
+        }
+      ],
+      "captainId": 282,
+      "wicketKeeperId": 16,
+      "id": 1087
+    },
+    {
+      "team": {
+        "id": 5,
+        "fullName": "Kolkata Knight Riders",
+        "shortName": "Knight Riders",
+        "abbreviation": "KKR",
+        "primaryColor": "6F2C91",
+        "secondaryColor": "FFFFFF",
+        "type": "m",
+        "typeString": "m"
+      },
+      "players": [
+        {
+          "id": 84,
+          "fullName": "Gautam Gambhir",
+          "shortName": "G Gambhir",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 371865600000,
+          "names": [
+            "Gautam Gambhir",
+            "G Gambhir"
+          ]
+        },
+        {
+          "id": 969,
+          "fullName": "Trent Boult",
+          "shortName": "T Boult",
+          "nationality": "New Zealander",
+          "rightArmBowl": false,
+          "dateOfBirth": 617068800000,
+          "names": [
+            "Trent Boult",
+            "T Boult"
+          ]
+        },
+        {
+          "id": 184,
+          "fullName": "Darren Bravo",
+          "shortName": "DM Bravo",
+          "nationality": "West Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 602726400000,
+          "names": [
+            "Darren Bravo",
+            "DM Bravo"
+          ]
+        },
+        {
+          "id": 76,
+          "fullName": "Piyush Chawla",
+          "shortName": "P Chawla",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 598924800000,
+          "names": [
+            "Piyush Chawla",
+            "P Chawla"
+          ]
+        },
+        {
+          "id": 840,
+          "fullName": "Nathan Coulter-Nile",
+          "shortName": "N Coulter-Nile",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "dateOfBirth": 560908800000,
+          "names": [
+            "Nathan Coulter-Nile",
+            "N Coulter-Nile"
+          ]
+        },
+        {
+          "id": 820,
+          "fullName": "Colin de Grandhomme",
+          "shortName": "C de Grandhomme",
+          "nationality": "New Zealander",
+          "bowlingStyle": "FAST_SEAM",
+          "dateOfBirth": 522374400000,
+          "names": [
+            "Colin de Grandhomme",
+            "C de Grandhomme"
+          ]
+        },
+        {
+          "id": 1088,
+          "fullName": "Rishi Dhawan",
+          "shortName": "R Dhawan",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 635385600000,
+          "names": [
+            "Rishi Dhawan",
+            "R Dhawan"
+          ]
+        },
+        {
+          "id": 3832,
+          "fullName": "Sayan Ghosh",
+          "shortName": "S Ghosh",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 716601600000,
+          "names": [
+            "Sayan Ghosh",
+            "S Ghosh"
+          ]
+        },
+        {
+          "id": 1116,
+          "fullName": "Sheldon Jackson",
+          "shortName": "S Jackson",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 528163200000,
+          "names": [
+            "Sheldon Jackson",
+            "S Jackson"
+          ]
+        },
+        {
+          "id": 37,
+          "fullName": "Ishank Jaggi",
+          "shortName": "I Jaggi",
+          "nationality": "Indian",
+          "dateOfBirth": 601862400000,
+          "names": [
+            "Ishank Jaggi",
+            "I Jaggi"
+          ]
+        },
+        {
+          "id": 261,
+          "fullName": "Kuldeep Yadav",
+          "shortName": "K Yadav",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 787363200000,
+          "names": [
+            "Kuldeep Yadav",
+            "K Yadav"
+          ]
+        },
+        {
+          "id": 179,
+          "fullName": "Chris Lynn",
+          "shortName": "C Lynn",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "dateOfBirth": 639705600000,
+          "names": [
+            "Chris Lynn",
+            "C Lynn"
+          ]
+        },
+        {
+          "id": 203,
+          "fullName": "Sunil Narine",
+          "shortName": "S Narine",
+          "nationality": "West Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 580608000000,
+          "names": [
+            "Sunil Narine",
+            "S Narine"
+          ]
+        },
+        {
+          "id": 123,
+          "fullName": "Manish Pandey",
+          "shortName": "M Pandey",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 621388800000,
+          "names": [
+            "Manish Pandey",
+            "M Pandey"
+          ]
+        },
+        {
+          "id": 96,
+          "fullName": "Yusuf Pathan",
+          "shortName": "Y Pathan",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 406339200000,
+          "names": [
+            "Yusuf Pathan",
+            "Y Pathan"
+          ]
+        },
+        {
+          "id": 3333,
+          "fullName": "Rovman Powell",
+          "shortName": "R Powell",
+          "nationality": "West Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 743385600000,
+          "names": [
+            "Rovman Powell",
+            "R Powell"
+          ]
+        },
+        {
+          "id": 1106,
+          "fullName": "Ankit Rajpoot",
+          "shortName": "A Rajpoot",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 754963200000,
+          "names": [
+            "Ankit Rajpoot",
+            "A Rajpoot"
+          ]
+        },
+        {
+          "id": 3833,
+          "fullName": "R Sanjay Yadav",
+          "shortName": "R Sanjay Yadav",
+          "nationality": "Indian",
+          "bowlingStyle": "ORTHODOX",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 905904000000,
+          "names": [
+            "R Sanjay Yadav",
+            "R Sanjay Yadav"
+          ]
+        },
+        {
+          "id": 201,
+          "fullName": "Shakib Al Hasan",
+          "shortName": "S Al Hasan",
+          "nationality": "Bangladeshi",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 543542400000,
+          "names": [
+            "Shakib Al Hasan",
+            "S Al Hasan"
+          ]
+        },
+        {
+          "id": 127,
+          "fullName": "Robin Uthappa",
+          "shortName": "R Uthappa",
+          "nationality": "Indian",
+          "dateOfBirth": 500515200000,
+          "names": [
+            "Robin Uthappa",
+            "R Uthappa"
+          ]
+        },
+        {
+          "id": 967,
+          "fullName": "Chris Woakes",
+          "shortName": "C Woakes",
+          "nationality": "English",
+          "rightArmBowl": false,
+          "dateOfBirth": 604800000000,
+          "names": [
+            "Chris Woakes",
+            "C Woakes"
+          ]
+        },
+        {
+          "id": 108,
+          "fullName": "Suryakumar Yadav",
+          "shortName": "S Yadav",
+          "nationality": "Indian",
+          "dateOfBirth": 653270400000,
+          "names": [
+            "Suryakumar Yadav",
+            "S Yadav"
+          ]
+        },
+        {
+          "id": 59,
+          "fullName": "Umesh Yadav",
+          "shortName": "U Yadav",
+          "nationality": "Indian",
+          "dateOfBirth": 562118400000,
+          "names": [
+            "Umesh Yadav",
+            "U Yadav"
+          ]
+        }
+      ],
+      "captainId": 84,
+      "wicketKeeperId": 127,
+      "id": 1086
+    },
+    {
+      "team": {
+        "id": 6,
+        "fullName": "Mumbai Indians",
+        "shortName": "Mumbai",
+        "abbreviation": "MI",
+        "primaryColor": "00AEEF",
+        "secondaryColor": "FFFFFF",
+        "type": "m",
+        "typeString": "m"
+      },
+      "players": [
+        {
+          "id": 107,
+          "fullName": "Rohit Sharma",
+          "shortName": "RG Sharma",
+          "nationality": "Indian",
+          "dateOfBirth": 546739200000,
+          "names": [
+            "Rohit Sharma",
+            "RG Sharma"
+          ]
+        },
+        {
+          "id": 1124,
+          "fullName": "Jasprit Bumrah",
+          "shortName": "J Bumrah",
+          "nationality": "Indian",
+          "dateOfBirth": 755136000000,
+          "names": [
+            "Jasprit Bumrah",
+            "J Bumrah"
+          ]
+        },
+        {
+          "id": 509,
+          "fullName": "Jos Buttler",
+          "shortName": "J Buttler",
+          "nationality": "English",
+          "dateOfBirth": 652752000000,
+          "names": [
+            "Jos Buttler",
+            "J Buttler"
+          ]
+        },
+        {
+          "id": 1748,
+          "fullName": "Shreyas Gopal",
+          "shortName": "S Gopal",
+          "nationality": "Indian",
+          "dateOfBirth": 747100800000,
+          "names": [
+            "Shreyas Gopal",
+            "S Gopal"
+          ]
+        },
+        {
+          "id": 3834,
+          "fullName": "Krishnappa Gowtham",
+          "shortName": "K Gowtham",
+          "nationality": "Indian",
+          "bowlingStyle": "OFF_SPIN",
+          "dateOfBirth": 593308800000,
+          "names": [
+            "Krishnappa Gowtham",
+            "K Gowtham"
+          ]
+        },
+        {
+          "id": 3153,
+          "fullName": "Asela Gunaratne",
+          "shortName": "A Gunaratne",
+          "nationality": "Sri Lankan",
+          "dateOfBirth": 505526400000,
+          "names": [
+            "Asela Gunaratne",
+            "A Gunaratne"
+          ]
+        },
+        {
+          "id": 103,
+          "fullName": "Harbhajan Singh",
+          "shortName": "H Singh",
+          "nationality": "Indian",
+          "dateOfBirth": 331430400000,
+          "names": [
+            "Harbhajan Singh",
+            "H Singh"
+          ]
+        },
+        {
+          "id": 213,
+          "fullName": "Mitchell Johnson",
+          "shortName": "M Johnson",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 373507200000,
+          "names": [
+            "Mitchell Johnson",
+            "M Johnson"
+          ]
+        },
+        {
+          "id": 3835,
+          "fullName": "Kulwant Khejroliya",
+          "shortName": "K Khejroliya",
+          "nationality": "Indian",
+          "bowlingStyle": "FAST_SEAM",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 794102400000,
+          "names": [
+            "Kulwant Khejroliya",
+            "K Khejroliya"
+          ]
+        },
+        {
+          "id": 2739,
+          "fullName": "Siddhesh Lad",
+          "shortName": "SD Lad",
+          "nationality": "Indian",
+          "dateOfBirth": 706579200000,
+          "names": [
+            "Siddhesh Lad",
+            "SD Lad"
+          ]
+        },
+        {
+          "id": 730,
+          "fullName": "Mitchell McClenaghan",
+          "shortName": "M McClenaghan",
+          "nationality": "New Zealander",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 518832000000,
+          "names": [
+            "Mitchell McClenaghan",
+            "M McClenaghan"
+          ]
+        },
+        {
+          "id": 211,
+          "fullName": "Lasith Malinga",
+          "shortName": "L Malinga",
+          "nationality": "Sri Lankan",
+          "dateOfBirth": 430876800000,
+          "names": [
+            "Lasith Malinga",
+            "L Malinga"
+          ]
+        },
+        {
+          "id": 2740,
+          "fullName": "Hardik Pandya",
+          "shortName": "H Pandya",
+          "nationality": "Indian",
+          "dateOfBirth": 750297600000,
+          "names": [
+            "Hardik Pandya",
+            "H Pandya"
+          ]
+        },
+        {
+          "id": 3183,
+          "fullName": "Krunal Pandya",
+          "shortName": "K Pandya",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 669772800000,
+          "names": [
+            "Krunal Pandya",
+            "K Pandya"
+          ]
+        },
+        {
+          "id": 44,
+          "fullName": "Parthiv Patel",
+          "shortName": "P Patel",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 479174400000,
+          "names": [
+            "Parthiv Patel",
+            "P Patel"
+          ]
+        },
+        {
+          "id": 210,
+          "fullName": "Kieron Pollard",
+          "shortName": "K Pollard",
+          "nationality": "West Indian",
+          "dateOfBirth": 547776000000,
+          "names": [
+            "Kieron Pollard",
+            "K Pollard"
+          ]
+        },
+        {
+          "id": 1703,
+          "fullName": "Nicholas Pooran",
+          "shortName": "N Pooran",
+          "nationality": "West Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 812592000000,
+          "names": [
+            "Nicholas Pooran",
+            "N Pooran"
+          ]
+        },
+        {
+          "id": 3184,
+          "fullName": "Deepak Punia",
+          "shortName": "D Punia",
+          "nationality": "Indian",
+          "dateOfBirth": 749088000000,
+          "names": [
+            "Deepak Punia",
+            "D Punia"
+          ]
+        },
+        {
+          "id": 2738,
+          "fullName": "Nitish Rana",
+          "shortName": "N Rana",
+          "nationality": "Indian",
+          "rightHandedBat": false,
+          "dateOfBirth": 756950400000,
+          "names": [
+            "Nitish Rana",
+            "N Rana"
+          ]
+        },
+        {
+          "id": 100,
+          "fullName": "Ambati Rayudu",
+          "shortName": "A Rayudu",
+          "nationality": "Indian",
+          "dateOfBirth": 496281600000,
+          "names": [
+            "Ambati Rayudu",
+            "A Rayudu"
+          ]
+        },
+        {
+          "id": 3185,
+          "fullName": "Jitesh Sharma",
+          "shortName": "J Sharma",
+          "nationality": "Indian",
+          "dateOfBirth": 751248000000,
+          "names": [
+            "Jitesh Sharma",
+            "J Sharma"
+          ]
+        },
+        {
+          "id": 1118,
+          "fullName": "Karn Sharma",
+          "shortName": "K Sharma",
+          "nationality": "Indian",
+          "rightHandedBat": false,
+          "dateOfBirth": 561945600000,
+          "names": [
+            "Karn Sharma",
+            "K Sharma"
+          ]
+        },
+        {
+          "id": 595,
+          "fullName": "Lendl Simmons",
+          "shortName": "L Simmons",
+          "nationality": "West Indian",
+          "dateOfBirth": 475459200000,
+          "names": [
+            "Lendl Simmons",
+            "L Simmons"
+          ]
+        },
+        {
+          "id": 307,
+          "fullName": "Tim Southee",
+          "shortName": "T Southee",
+          "nationality": "New Zealander",
+          "dateOfBirth": 597801600000,
+          "names": [
+            "Tim Southee",
+            "T Southee"
+          ]
+        },
+        {
+          "id": 2741,
+          "fullName": "Jagadeesha Suchith",
+          "shortName": "J Suchith",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 758678400000,
+          "names": [
+            "Jagadeesha Suchith",
+            "J Suchith"
+          ]
+        },
+        {
+          "id": 163,
+          "fullName": "Saurabh Tiwary",
+          "shortName": "S Tiwary",
+          "nationality": "Indian",
+          "rightHandedBat": false,
+          "dateOfBirth": 630979200000,
+          "names": [
+            "Saurabh Tiwary",
+            "S Tiwary"
+          ]
+        },
+        {
+          "id": 166,
+          "fullName": "Vinay Kumar",
+          "shortName": "V Kumar",
+          "nationality": "Indian",
+          "dateOfBirth": 445392000000,
+          "names": [
+            "Vinay Kumar",
+            "V Kumar"
+          ]
+        }
+      ],
+      "captainId": 107,
+      "wicketKeeperId": 44,
+      "id": 1088
+    },
+    {
+      "team": {
+        "id": 9,
+        "fullName": "Royal Challengers Bangalore",
+        "shortName": "Challengers",
+        "abbreviation": "RCB",
+        "primaryColor": "D33F46",
+        "secondaryColor": "FFFFFF",
+        "type": "m",
+        "typeString": "m"
+      },
+      "players": [
+        {
+          "id": 164,
+          "fullName": "Virat Kohli",
+          "shortName": "V Kohli",
+          "nationality": "Indian",
+          "dateOfBirth": 594691200000,
+          "names": [
+            "Virat Kohli",
+            "V Kohli"
+          ]
+        },
+        {
+          "id": 162,
+          "fullName": "Sreenath Arvind",
+          "shortName": "S Arvind",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 450230400000,
+          "names": [
+            "Sreenath Arvind",
+            "S Arvind"
+          ]
+        },
+        {
+          "id": 1561,
+          "fullName": "Avesh Khan",
+          "shortName": "A Khan",
+          "nationality": "Indian",
+          "dateOfBirth": 850435200000,
+          "names": [
+            "Avesh Khan",
+            "A Khan"
+          ]
+        },
+        {
+          "id": 590,
+          "fullName": "Samuel Badree",
+          "shortName": "S Badree",
+          "nationality": "West Indian",
+          "dateOfBirth": 352944000000,
+          "names": [
+            "Samuel Badree",
+            "S Badree"
+          ]
+        },
+        {
+          "id": 148,
+          "fullName": "Stuart Binny",
+          "shortName": "S Binny",
+          "nationality": "Indian",
+          "dateOfBirth": 455068800000,
+          "names": [
+            "Stuart Binny",
+            "S Binny"
+          ]
+        },
+        {
+          "id": 111,
+          "fullName": "Yuzvendra Chahal",
+          "shortName": "Y Chahal",
+          "nationality": "Indian",
+          "dateOfBirth": 648691200000,
+          "names": [
+            "Yuzvendra Chahal",
+            "Y Chahal"
+          ]
+        },
+        {
+          "id": 1111,
+          "fullName": "Aniket Choudhary",
+          "shortName": "A Choudhary",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 633484800000,
+          "names": [
+            "Aniket Choudhary",
+            "A Choudhary"
+          ]
+        },
+        {
+          "id": 233,
+          "fullName": "AB de Villiers",
+          "shortName": "AB de Villiers",
+          "nationality": "South African",
+          "dateOfBirth": 445824000000,
+          "names": [
+            "AB de Villiers",
+            "AB de Villiers"
+          ]
+        },
+        {
+          "id": 3188,
+          "fullName": "Praveen Dubey",
+          "shortName": "P Dubey",
+          "nationality": "Indian",
+          "dateOfBirth": 741484800000,
+          "names": [
+            "Praveen Dubey",
+            "P Dubey"
+          ]
+        },
+        {
+          "id": 236,
+          "fullName": "Chris Gayle",
+          "shortName": "C Gayle",
+          "nationality": "West Indian",
+          "rightHandedBat": false,
+          "dateOfBirth": 306720000000,
+          "names": [
+            "Chris Gayle",
+            "C Gayle"
+          ]
+        },
+        {
+          "id": 119,
+          "fullName": "Harpreet Singh",
+          "shortName": "H Singh",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 681868800000,
+          "names": [
+            "Harpreet Singh",
+            "H Singh"
+          ]
+        },
+        {
+          "id": 1020,
+          "fullName": "Travis Head",
+          "shortName": "TM Head",
+          "nationality": "Australian",
+          "rightHandedBat": false,
+          "dateOfBirth": 757123200000,
+          "names": [
+            "Travis Head",
+            "TM Head"
+          ]
+        },
+        {
+          "id": 85,
+          "fullName": "Iqbal Abdulla",
+          "shortName": "I Abdulla",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 628560000000,
+          "names": [
+            "Iqbal Abdulla",
+            "I Abdulla"
+          ]
+        },
+        {
+          "id": 297,
+          "fullName": "Kedar Jadhav",
+          "shortName": "K Jadhav",
+          "nationality": "Indian",
+          "dateOfBirth": 480643200000,
+          "names": [
+            "Kedar Jadhav",
+            "K Jadhav"
+          ]
+        },
+        {
+          "id": 72,
+          "fullName": "Mandeep Singh",
+          "shortName": "M Singh",
+          "nationality": "Indian",
+          "dateOfBirth": 693014400000,
+          "names": [
+            "Mandeep Singh",
+            "M Singh"
+          ]
+        },
+        {
+          "id": 3319,
+          "fullName": "Tymal Mills",
+          "shortName": "T Mills",
+          "nationality": "English",
+          "rightArmBowl": false,
+          "dateOfBirth": 713577600000,
+          "names": [
+            "Tymal Mills",
+            "T Mills"
+          ]
+        },
+        {
+          "id": 434,
+          "fullName": "Adam Milne",
+          "shortName": "A Milne",
+          "nationality": "New Zealander",
+          "dateOfBirth": 703123200000,
+          "names": [
+            "Adam Milne",
+            "A Milne"
+          ]
+        },
+        {
+          "id": 53,
+          "fullName": "Pawan Negi",
+          "shortName": "P Negi",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 410659200000,
+          "names": [
+            "Pawan Negi",
+            "P Negi"
+          ]
+        },
+        {
+          "id": 157,
+          "fullName": "Harshal Patel",
+          "shortName": "H Patel",
+          "nationality": "Indian",
+          "dateOfBirth": 659318400000,
+          "names": [
+            "Harshal Patel",
+            "H Patel"
+          ]
+        },
+        {
+          "id": 1115,
+          "fullName": "Sachin Baby",
+          "shortName": "S Baby",
+          "nationality": "Indian",
+          "rightHandedBat": false,
+          "dateOfBirth": 598406400000,
+          "names": [
+            "Sachin Baby",
+            "S Baby"
+          ]
+        },
+        {
+          "id": 3309,
+          "fullName": "Tabraiz Shamsi",
+          "shortName": "T Shamsi",
+          "nationality": "South African",
+          "rightArmBowl": false,
+          "dateOfBirth": 635299200000,
+          "names": [
+            "Tabraiz Shamsi",
+            "T Shamsi"
+          ]
+        },
+        {
+          "id": 1521,
+          "fullName": "Billy Stanlake",
+          "shortName": "B Stanlake",
+          "nationality": "Australian",
+          "rightHandedBat": false,
+          "dateOfBirth": 783907200000,
+          "names": [
+            "Billy Stanlake",
+            "B Stanlake"
+          ]
+        },
+        {
+          "id": 4305,
+          "fullName": "Vishnu Vinod",
+          "shortName": "V Vinod",
+          "nationality": "Indian",
+          "dateOfBirth": 754790400000,
+          "names": [
+            "Vishnu Vinod",
+            "V Vinod"
+          ]
+        },
+        {
+          "id": 227,
+          "fullName": "Shane Watson",
+          "shortName": "S Watson",
+          "nationality": "Australian",
+          "dateOfBirth": 361584000000,
+          "names": [
+            "Shane Watson",
+            "S Watson"
+          ]
+        }
+      ],
+      "captainId": 164,
+      "id": 1089
+    },
+    {
+      "team": {
+        "id": 62,
+        "fullName": "Sunrisers Hyderabad",
+        "shortName": "Sunrisers",
+        "abbreviation": "SRH",
+        "primaryColor": "FF9C00",
+        "secondaryColor": "FFFFFF",
+        "type": "m",
+        "typeString": "m"
+      },
+      "players": [
+        {
+          "id": 170,
+          "fullName": "David Warner",
+          "shortName": "D Warner",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 530755200000,
+          "names": [
+            "David Warner",
+            "D Warner"
+          ]
+        },
+        {
+          "id": 3839,
+          "fullName": "Tanmay Agarwal",
+          "shortName": "T Agarwal",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "rightHandedBat": false,
+          "dateOfBirth": 799459200000,
+          "names": [
+            "Tanmay Agarwal",
+            "T Agarwal"
+          ]
+        },
+        {
+          "id": 1555,
+          "fullName": "Ricky Bhui",
+          "shortName": "R Bhui",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 843955200000,
+          "names": [
+            "Ricky Bhui",
+            "R Bhui"
+          ]
+        },
+        {
+          "id": 69,
+          "fullName": "Bipul Sharma",
+          "shortName": "B Sharma",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 433555200000,
+          "names": [
+            "Bipul Sharma",
+            "B Sharma"
+          ]
+        },
+        {
+          "id": 913,
+          "fullName": "Ben Cutting",
+          "shortName": "B Cutting",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "dateOfBirth": 538963200000,
+          "names": [
+            "Ben Cutting",
+            "B Cutting"
+          ]
+        },
+        {
+          "id": 41,
+          "fullName": "Shikhar Dhawan",
+          "shortName": "S Dhawan",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 502588800000,
+          "names": [
+            "Shikhar Dhawan",
+            "S Dhawan"
+          ]
+        },
+        {
+          "id": 118,
+          "fullName": "Eklavya Dwivedi ",
+          "shortName": "E Dwivedi ",
+          "nationality": "Indian",
+          "dateOfBirth": 585532800000,
+          "names": [
+            "Eklavya Dwivedi ",
+            "E Dwivedi "
+          ]
+        },
+        {
+          "id": 388,
+          "fullName": "Moises Henriques",
+          "shortName": "M Henriques",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "dateOfBirth": 539136000000,
+          "names": [
+            "Moises Henriques",
+            "M Henriques"
+          ]
+        },
+        {
+          "id": 1556,
+          "fullName": "Deepak Hooda",
+          "shortName": "D Hooda",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 798249600000,
+          "names": [
+            "Deepak Hooda",
+            "D Hooda"
+          ]
+        },
+        {
+          "id": 1299,
+          "fullName": "Chris Jordan",
+          "shortName": "C Jordan",
+          "nationality": "English",
+          "dateOfBirth": 591926400000,
+          "names": [
+            "Chris Jordan",
+            "C Jordan"
+          ]
+        },
+        {
+          "id": 1086,
+          "fullName": "Siddarth Kaul",
+          "shortName": "S Kaul",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 643075200000,
+          "names": [
+            "Siddarth Kaul",
+            "S Kaul"
+          ]
+        },
+        {
+          "id": 116,
+          "fullName": "Bhuvneshwar Kumar",
+          "shortName": "B Kumar",
+          "nationality": "Indian",
+          "dateOfBirth": 660355200000,
+          "names": [
+            "Bhuvneshwar Kumar",
+            "B Kumar"
+          ]
+        },
+        {
+          "id": 921,
+          "fullName": "Ben Laughlin",
+          "shortName": "B Laughlin",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "dateOfBirth": 402451200000,
+          "names": [
+            "Ben Laughlin",
+            "B Laughlin"
+          ]
+        },
+        {
+          "id": 151,
+          "fullName": "Abhimanyu Mithun",
+          "shortName": "A Mithun",
+          "nationality": "Indian",
+          "dateOfBirth": 625276800000,
+          "names": [
+            "Abhimanyu Mithun",
+            "A Mithun"
+          ]
+        },
+        {
+          "id": 618,
+          "fullName": "Mohammad Nabi",
+          "shortName": "M Nabi",
+          "nationality": "Afghan",
+          "bowlingStyle": "OFF_SPIN",
+          "dateOfBirth": 473385600000,
+          "names": [
+            "Mohammad Nabi",
+            "M Nabi"
+          ]
+        },
+        {
+          "id": 3840,
+          "fullName": "Mohammed Siraj",
+          "shortName": "M Siraj",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 763516800000,
+          "names": [
+            "Mohammed Siraj",
+            "M Siraj"
+          ]
+        },
+        {
+          "id": 1594,
+          "fullName": "Mustafizur Rahman",
+          "shortName": "M Rahman",
+          "nationality": "Bangladeshi",
+          "bowlingStyle": "FAST_SEAM",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 810345600000,
+          "names": [
+            "Mustafizur Rahman",
+            "M Rahman"
+          ]
+        },
+        {
+          "id": 115,
+          "fullName": "Ashish Nehra",
+          "shortName": "A Nehra",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 294192000000,
+          "names": [
+            "Ashish Nehra",
+            "A Nehra"
+          ]
+        },
+        {
+          "id": 52,
+          "fullName": "Naman Ojha",
+          "shortName": "N Ojha",
+          "nationality": "Indian",
+          "dateOfBirth": 427507200000,
+          "names": [
+            "Naman Ojha",
+            "N Ojha"
+          ]
+        },
+        {
+          "id": 2885,
+          "fullName": "Rashid Khan",
+          "shortName": "R Khan",
+          "nationality": "Afghan",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 906249600000,
+          "names": [
+            "Rashid Khan",
+            "R Khan"
+          ]
+        },
+        {
+          "id": 1083,
+          "fullName": "Vijay Shankar",
+          "shortName": "V Shankar",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 664848000000,
+          "names": [
+            "Vijay Shankar",
+            "V Shankar"
+          ]
+        },
+        {
+          "id": 2746,
+          "fullName": "Barinder Sran",
+          "shortName": "B Sran",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 723945600000,
+          "names": [
+            "Barinder Sran",
+            "B Sran"
+          ]
+        },
+        {
+          "id": 1114,
+          "fullName": "Pravin Tambe",
+          "shortName": "P Tambe",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 55728000000,
+          "names": [
+            "Pravin Tambe",
+            "P Tambe"
+          ]
+        },
+        {
+          "id": 440,
+          "fullName": "Kane Williamson",
+          "shortName": "K Williamson",
+          "nationality": "New Zealander",
+          "rightArmBowl": false,
+          "dateOfBirth": 650073600000,
+          "names": [
+            "Kane Williamson",
+            "K Williamson"
+          ]
+        },
+        {
+          "id": 113,
+          "fullName": "Yuvraj Singh",
+          "shortName": "Y Singh",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 376963200000,
+          "names": [
+            "Yuvraj Singh",
+            "Y Singh"
+          ]
+        }
+      ],
+      "captainId": 170,
+      "wicketKeeperId": 52,
+      "id": 1091
+    },
+    {
+      "team": {
+        "id": 433,
+        "fullName": "Gujarat Lions",
+        "shortName": "Gujarat Lions",
+        "abbreviation": "GL",
+        "primaryColor": "E5BA0F",
+        "secondaryColor": "383838",
+        "type": "m",
+        "typeString": "m"
+      },
+      "players": [
+        {
+          "id": 14,
+          "fullName": "Suresh Raina",
+          "shortName": "S Raina",
+          "nationality": "Indian",
+          "rightHandedBat": false,
+          "dateOfBirth": 533433600000,
+          "names": [
+            "Suresh Raina",
+            "S Raina"
+          ]
+        },
+        {
+          "id": 3177,
+          "fullName": "Akshdeep Nath",
+          "shortName": "A Nath",
+          "nationality": "Indian",
+          "dateOfBirth": 736992000000,
+          "names": [
+            "Akshdeep Nath",
+            "A Nath"
+          ]
+        },
+        {
+          "id": 3826,
+          "fullName": "Shubham Agarwal",
+          "shortName": "S Agarwal",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 753840000000,
+          "names": [
+            "Shubham Agarwal",
+            "S Agarwal"
+          ]
+        },
+        {
+          "id": 3825,
+          "fullName": "Basil Thampi",
+          "shortName": "B Thampi",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 747705600000,
+          "names": [
+            "Basil Thampi",
+            "B Thampi"
+          ]
+        },
+        {
+          "id": 1687,
+          "fullName": "Chirag Suri",
+          "shortName": "C Suri",
+          "nationality": "Emirati",
+          "dateOfBirth": 793065600000,
+          "names": [
+            "Chirag Suri",
+            "C Suri"
+          ]
+        },
+        {
+          "id": 193,
+          "fullName": "James Faulkner",
+          "shortName": "J Faulkner",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "dateOfBirth": 641347200000,
+          "names": [
+            "James Faulkner",
+            "J Faulkner"
+          ]
+        },
+        {
+          "id": 167,
+          "fullName": "Aaron Finch",
+          "shortName": "A Finch",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "dateOfBirth": 532569600000,
+          "names": [
+            "Aaron Finch",
+            "A Finch"
+          ]
+        },
+        {
+          "id": 40,
+          "fullName": "Manpreet Gony",
+          "shortName": "M Gony",
+          "nationality": "Indian",
+          "dateOfBirth": 441763200000,
+          "names": [
+            "Manpreet Gony",
+            "M Gony"
+          ]
+        },
+        {
+          "id": 2975,
+          "fullName": "Ishan Kishan",
+          "shortName": "I Kishan",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 900720000000,
+          "names": [
+            "Ishan Kishan",
+            "I Kishan"
+          ]
+        },
+        {
+          "id": 9,
+          "fullName": "Ravindra Jadeja",
+          "shortName": "R Jadeja",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 597369600000,
+          "names": [
+            "Ravindra Jadeja",
+            "R Jadeja"
+          ]
+        },
+        {
+          "id": 10,
+          "fullName": "Shadab Jakati",
+          "shortName": "S Jakati",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 344131200000,
+          "names": [
+            "Shadab Jakati",
+            "S Jakati"
+          ]
+        },
+        {
+          "id": 102,
+          "fullName": "Dinesh Karthik",
+          "shortName": "D Karthik",
+          "nationality": "Indian",
+          "dateOfBirth": 486432000000,
+          "names": [
+            "Dinesh Karthik",
+            "D Karthik"
+          ]
+        },
+        {
+          "id": 101,
+          "fullName": "Dhawal Kulkarni",
+          "shortName": "D Kulkarni",
+          "nationality": "Indian",
+          "dateOfBirth": 597715200000,
+          "names": [
+            "Dhawal Kulkarni",
+            "D Kulkarni"
+          ]
+        },
+        {
+          "id": 77,
+          "fullName": "Praveen Kumar",
+          "shortName": "P Kumar",
+          "nationality": "Indian",
+          "dateOfBirth": 528595200000,
+          "names": [
+            "Praveen Kumar",
+            "P Kumar"
+          ]
+        },
+        {
+          "id": 202,
+          "fullName": "Brendon McCullum",
+          "shortName": "B McCullum",
+          "nationality": "New Zealander",
+          "dateOfBirth": 370396800000,
+          "names": [
+            "Brendon McCullum",
+            "B McCullum"
+          ]
+        },
+        {
+          "id": 104,
+          "fullName": "Munaf Patel",
+          "shortName": "M Patel",
+          "nationality": "Indian",
+          "dateOfBirth": 426816000000,
+          "names": [
+            "Munaf Patel",
+            "M Patel"
+          ]
+        },
+        {
+          "id": 49,
+          "fullName": "Irfan Pathan",
+          "shortName": "I Pathan",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 467683200000,
+          "names": [
+            "Irfan Pathan",
+            "I Pathan"
+          ]
+        },
+        {
+          "id": 3828,
+          "fullName": "Pratham Singh",
+          "shortName": "P Singh",
+          "nationality": "Indian",
+          "bowlingStyle": "OFF_SPIN",
+          "rightHandedBat": false,
+          "dateOfBirth": 715219200000,
+          "names": [
+            "Pratham Singh",
+            "P Singh"
+          ]
+        },
+        {
+          "id": 1906,
+          "fullName": "Jason Roy",
+          "shortName": "J Roy",
+          "nationality": "English",
+          "dateOfBirth": 648518400000,
+          "names": [
+            "Jason Roy",
+            "J Roy"
+          ]
+        },
+        {
+          "id": 91,
+          "fullName": "Pradeep Sangwan",
+          "shortName": "P Sangwan",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 657763200000,
+          "names": [
+            "Pradeep Sangwan",
+            "P Sangwan"
+          ]
+        },
+        {
+          "id": 265,
+          "fullName": "Jaydev Shah",
+          "shortName": "J Shah",
+          "nationality": "Indian",
+          "rightHandedBat": false,
+          "dateOfBirth": 420854400000,
+          "names": [
+            "Jaydev Shah",
+            "J Shah"
+          ]
+        },
+        {
+          "id": 4320,
+          "fullName": "Ankit Soni",
+          "shortName": "A Soni",
+          "nationality": "Indian",
+          "names": [
+            "Ankit Soni",
+            "A Soni"
+          ]
+        },
+        {
+          "id": 3829,
+          "fullName": "Shelley Shaurya",
+          "shortName": "S Shaurya",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 748224000000,
+          "names": [
+            "Shelley Shaurya",
+            "S Shaurya"
+          ]
+        },
+        {
+          "id": 3186,
+          "fullName": "Nathu Singh",
+          "shortName": "N Singh",
+          "nationality": "Indian",
+          "dateOfBirth": 810518400000,
+          "names": [
+            "Nathu Singh",
+            "N Singh"
+          ]
+        },
+        {
+          "id": 413,
+          "fullName": "Dwayne Smith",
+          "shortName": "DR Smith",
+          "nationality": "West Indian",
+          "dateOfBirth": 418953600000,
+          "names": [
+            "Dwayne Smith",
+            "DR Smith"
+          ]
+        },
+        {
+          "id": 3827,
+          "fullName": "Tejas Baroka",
+          "shortName": "T Baroka",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 823132800000,
+          "names": [
+            "Tejas Baroka",
+            "T Baroka"
+          ]
+        },
+        {
+          "id": 1480,
+          "fullName": "Andrew Tye",
+          "shortName": "A Tye",
+          "nationality": "Australian",
+          "dateOfBirth": 534729600000,
+          "names": [
+            "Andrew Tye",
+            "A Tye"
+          ]
+        }
+      ],
+      "captainId": 14,
+      "wicketKeeperId": 102,
+      "id": 1084
+    },
+    {
+      "team": {
+        "id": 434,
+        "fullName": "Rising Pune Supergiant",
+        "shortName": "Supergiant",
+        "abbreviation": "RPS",
+        "primaryColor": "FFC0CB",
+        "secondaryColor": "AA3355",
+        "type": "m",
+        "typeString": "m"
+      },
+      "players": [
+        {
+          "id": 271,
+          "fullName": "Steve Smith",
+          "shortName": "S Smith",
+          "nationality": "Australian",
+          "dateOfBirth": 612748800000,
+          "names": [
+            "Steve Smith",
+            "S Smith"
+          ]
+        },
+        {
+          "id": 158,
+          "fullName": "Mayank Agarwal",
+          "shortName": "M Agarwal",
+          "nationality": "Indian",
+          "dateOfBirth": 666835200000,
+          "names": [
+            "Mayank Agarwal",
+            "M Agarwal"
+          ]
+        },
+        {
+          "id": 32,
+          "fullName": "Ankit Sharma",
+          "shortName": "A Sharma",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 672105600000,
+          "names": [
+            "Ankit Sharma",
+            "A Sharma"
+          ]
+        },
+        {
+          "id": 1084,
+          "fullName": "Baba Aparajith",
+          "shortName": "B Aparajith",
+          "nationality": "Indian",
+          "dateOfBirth": 773625600000,
+          "names": [
+            "Baba Aparajith",
+            "B Aparajith"
+          ]
+        },
+        {
+          "id": 1558,
+          "fullName": "Ankush Bains",
+          "shortName": "A Bains",
+          "nationality": "Indian",
+          "dateOfBirth": 819072000000,
+          "names": [
+            "Ankush Bains",
+            "A Bains"
+          ]
+        },
+        {
+          "id": 92,
+          "fullName": "Rajat Bhatia",
+          "shortName": "R Bhatia",
+          "nationality": "Indian",
+          "dateOfBirth": 309398400000,
+          "names": [
+            "Rajat Bhatia",
+            "R Bhatia"
+          ]
+        },
+        {
+          "id": 140,
+          "fullName": "Deepak Chahar",
+          "shortName": "D Chahar",
+          "nationality": "Indian",
+          "dateOfBirth": 713145600000,
+          "names": [
+            "Deepak Chahar",
+            "D Chahar"
+          ]
+        },
+        {
+          "id": 3763,
+          "fullName": "Rahul Chahar",
+          "shortName": "R Chahar",
+          "nationality": "Indian",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 933724800000,
+          "names": [
+            "Rahul Chahar",
+            "R Chahar"
+          ]
+        },
+        {
+          "id": 181,
+          "fullName": "Dan Christian",
+          "shortName": "D Christian",
+          "nationality": "Australian",
+          "dateOfBirth": 420854400000,
+          "names": [
+            "Dan Christian",
+            "D Christian"
+          ]
+        },
+        {
+          "id": 1,
+          "fullName": "MS Dhoni",
+          "shortName": "MS Dhoni",
+          "nationality": "Indian",
+          "dateOfBirth": 363312000000,
+          "names": [
+            "MS Dhoni",
+            "MS Dhoni"
+          ]
+        },
+        {
+          "id": 48,
+          "fullName": "Ashok Dinda",
+          "shortName": "A Dinda",
+          "nationality": "Indian",
+          "dateOfBirth": 449020800000,
+          "names": [
+            "Ashok Dinda",
+            "A Dinda"
+          ]
+        },
+        {
+          "id": 24,
+          "fullName": "Faf du Plessis",
+          "shortName": "F du Plessis",
+          "nationality": "South African",
+          "bowlingStyle": "LEG_SPIN",
+          "dateOfBirth": 458524800000,
+          "names": [
+            "Faf du Plessis",
+            "F du Plessis"
+          ]
+        },
+        {
+          "id": 3729,
+          "fullName": "Lockie Ferguson",
+          "shortName": "L Ferguson",
+          "nationality": "New Zealander",
+          "bowlingStyle": "FAST_SEAM",
+          "dateOfBirth": 676771200000,
+          "names": [
+            "Lockie Ferguson",
+            "L Ferguson"
+          ]
+        },
+        {
+          "id": 898,
+          "fullName": "Imran Tahir",
+          "shortName": "I Tahir",
+          "nationality": "South African",
+          "dateOfBirth": 291340800000,
+          "names": [
+            "Imran Tahir",
+            "I Tahir"
+          ]
+        },
+        {
+          "id": 395,
+          "fullName": "Jaskaran Singh",
+          "shortName": "J Singh",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 620870400000,
+          "names": [
+            "Jaskaran Singh",
+            "J Singh"
+          ]
+        },
+        {
+          "id": 948,
+          "fullName": "Usman Khawaja",
+          "shortName": "U Khawaja",
+          "nationality": "Australian",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 535248000000,
+          "names": [
+            "Usman Khawaja",
+            "U Khawaja"
+          ]
+        },
+        {
+          "id": 135,
+          "fullName": "Ajinkya Rahane",
+          "shortName": "A Rahane",
+          "nationality": "Indian",
+          "dateOfBirth": 581558400000,
+          "names": [
+            "Ajinkya Rahane",
+            "A Rahane"
+          ]
+        },
+        {
+          "id": 3836,
+          "fullName": "Saurabh Kumar",
+          "shortName": "S Kumar",
+          "nationality": "Indian",
+          "bowlingStyle": "ORTHODOX",
+          "rightArmBowl": false,
+          "rightHandedBat": false,
+          "dateOfBirth": 736214400000,
+          "names": [
+            "Saurabh Kumar",
+            "S Kumar"
+          ]
+        },
+        {
+          "id": 1154,
+          "fullName": "Ben Stokes",
+          "shortName": "B Stokes",
+          "nationality": "English",
+          "rightHandedBat": false,
+          "dateOfBirth": 675993600000,
+          "names": [
+            "Ben Stokes",
+            "B Stokes"
+          ]
+        },
+        {
+          "id": 2973,
+          "fullName": "Washington Sundar",
+          "shortName": "W Sundar",
+          "nationality": "Indian",
+          "rightHandedBat": false,
+          "dateOfBirth": 939081600000,
+          "names": [
+            "Washington Sundar",
+            "W Sundar"
+          ]
+        },
+        {
+          "id": 3837,
+          "fullName": "Milind Tandon",
+          "shortName": "M Tandon",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 751852800000,
+          "names": [
+            "Milind Tandon",
+            "M Tandon"
+          ]
+        },
+        {
+          "id": 89,
+          "fullName": "Manoj Tiwary",
+          "shortName": "M Tiwary",
+          "nationality": "Indian",
+          "dateOfBirth": 500774400000,
+          "names": [
+            "Manoj Tiwary",
+            "M Tiwary"
+          ]
+        },
+        {
+          "id": 958,
+          "fullName": "Adam Zampa",
+          "shortName": "A Zampa",
+          "nationality": "Australian",
+          "dateOfBirth": 702000000000,
+          "names": [
+            "Adam Zampa",
+            "A Zampa"
+          ]
+        },
+        {
+          "id": 86,
+          "fullName": "Jaydev Unadkat",
+          "shortName": "J Unadkat",
+          "nationality": "Indian",
+          "rightArmBowl": false,
+          "dateOfBirth": 687744000000,
+          "names": [
+            "Jaydev Unadkat",
+            "J Unadkat"
+          ]
+        },
+        {
+          "id": 1090,
+          "fullName": "Ishwar Pandey",
+          "shortName": "I Pandey",
+          "nationality": "Indian",
+          "dateOfBirth": 619142400000,
+          "names": [
+            "Ishwar Pandey",
+            "I Pandey"
+          ]
+        },
+        {
+          "id": 3838,
+          "fullName": "Rahul Tripathi",
+          "shortName": "R Tripathi",
+          "nationality": "Indian",
+          "bowlingStyle": "MEDIUM_SEAM",
+          "dateOfBirth": 667872000000,
+          "names": [
+            "Rahul Tripathi",
+            "R Tripathi"
+          ]
+        },
+        {
+          "id": 1745,
+          "fullName": "Shardul Thakur",
+          "shortName": "S Thakur",
+          "nationality": "Indian",
+          "dateOfBirth": 687571200000,
+          "names": [
+            "Shardul Thakur",
+            "S Thakur"
+          ]
+        }
+      ],
+      "captainId": 271,
+      "wicketKeeperId": 1,
+      "id": 1090
+    }
+  ]
+}

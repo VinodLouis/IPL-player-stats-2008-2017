@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <script src="vendor/jquery/jquery-1.6.2.min.js"></script>
+  </head>
+  <body>
+  </body>
+  <script>
+  function onTournamentStats(data){
+    console.log(data);
+  }
+    $(document).ready(function(e){
+      $.getJson( "data/2008-team.json", function( data, textStatus, jqxhr ) {
+        console.log( data ); // Data returned
+        console.log( textStatus ); // Success
+        console.log( jqxhr.status ); // 200
+        console.log( "Load was performed." );
+      });
+    });
+
+
+  </script>
+</html>
