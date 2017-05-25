@@ -116,8 +116,12 @@ background-position: 0px 0px;
   border: 1px dashed #00f;
 }
 
-table{
+.tbl, .inner-tbl{
   width: 100%;
+}
+
+.inner-tbl > tbody > tr > td{
+	text-align:center;
 }
 </style>
 
@@ -127,7 +131,7 @@ table{
   </div>
   <div class="right">
     <div id="content">
-    <table>
+    <table class="tbl">
       <tr>
         <td>
           <div id="plImg" ></div>
@@ -136,17 +140,23 @@ table{
           <div id="plStats"></div>
         </td>
       </tr>
+	 </table>
+	 <table class="tbl">	
       <tr>
-        <td>
-          Batting
-        </td>
-        <td>
+        <th>
           Bowling
-        </td>
+        </th>
+        <th>
+          Batting
+        </th>
+		<th>
+		  Fielding		
+		</th>
       </tr>
       <tr>
-        <td><div id="bat"></div></td>
-        <td><div id="bowl"></div></td>
+		<td><table border="1" cellspacing="1" cellpadding="2" class="inner-tbl" id="bowl"></table></td>
+        <td><table border="1" cellspacing="1" cellpadding="2" class="inner-tbl" id="bat"></table></td>
+		<td><table border="1" cellspacing="1" cellpadding="2" class="inner-tbl" id="field"></table></td>
       </tr>
     </table>
   </div>    
@@ -213,7 +223,7 @@ d3.json("data/players.json", function(error, root) {
           s += "<div>" + d.parent.parent.data.name + ",&nbsp;&nbsp;" + d.parent.data.team.team.fullName + ((d.parent.data.team.captainId == d.data.player.id) ? "&nbsp;(C)" : "" ) + ((d.parent.data.team.wicketKeeperId == d.data.player.id) ? "&nbsp;(WK)" : "") + "</div></div>"
           s += "<p>* click for performance details </p>"
         }else{
-          console.log(d); 
+          //console.log(d); 
           s += (d.data.team ? "<span class='team-logo " + d.data.team.team.abbreviation + "'></span> &nbsp;" : "") 
           s += d.data.name + "</div>"
         }
@@ -280,7 +290,58 @@ function imgError(image) {
 
 function displayData(pld){
   $("#plImg").html("<img class='t-img' onerror='imgError(this);' src='http://iplstatic.s3.amazonaws.com/players/210/" + pld.data.player.id + ".png'></img>")
-}
+	var s = "<div>" + pld.data.player.fullName + "</div><div>" + pld.data.player.nationality + "&nbsp;&nbsp;" +  ((new Date()).getFullYear() - (new Date(pld.data.player.dateOfBirth)).getFullYear()) +  "Years</div>" 
+
+        s += "<div>" + pld.parent.parent.data.name + "&nbsp;&nbsp;" + pld.parent.data.team.team.fullName + "</div>" 
+		s += "<div>" + ((pld.parent.data.team.captainId == pld.data.player.id) ? "(Captain)" : "" ) + ((pld.parent.data.team.wicketKeeperId == pld.data.player.id) ? "(Wicket Keeper)" : "") + "</div>"
+        
+	$("#plStats").html(s);
+	
+	var thisScorePlayers = performance.find(function(ele){
+	    //console.log(ele.tournamentId.id , pld.parent.parent.data.tournament.id , ele.team.id , pld.parent.data.team.team.id)
+		return(ele.tournamentId.id == pld.parent.parent.data.tournament.id && ele.team.id == pld.parent.data.team.team.id);
+	});
+	
+	var thisPlayer = thisScorePlayers.playersStats.find(function(el){
+		return(el.player.id == pld.data.player.id);
+	});
+
+	var thisPlayerIPLT20 = thisPlayer.stats.find(function(el){
+		return(el.matchType == "IPLT20");
+	});	
+	
+	//console.log(thisPlayerIPLT20);
+	var strHTML = "";
+	
+	if(thisPlayerIPLT20.battingStats){
+		for(var prop in thisPlayerIPLT20.battingStats){
+			strHTML += "<tr><th>" + prop + "</th><td>" + thisPlayerIPLT20.battingStats[prop] + "</td></tr>"; 
+		}
+
+		$("#bat").html(strHTML);
+	}
+	
+	
+	if(thisPlayerIPLT20.bowlingStats){
+		strHTML = "";
+		for(var prop in thisPlayerIPLT20.bowlingStats){
+			strHTML += "<tr><th>" + prop + "</th><td>" + thisPlayerIPLT20.bowlingStats[prop] + "</td></tr>"; 
+		}
+
+		$("#bowl").html(strHTML);
+	}	
+	
+	
+	if(thisPlayerIPLT20.fieldingStats){
+		strHTML = "";
+		for(var prop in thisPlayerIPLT20.fieldingStats){
+			strHTML += "<tr><th>" + prop + "</th><td>" + thisPlayerIPLT20.fieldingStats[prop] + "</td></tr>"; 
+		}
+
+		$("#field").html(strHTML);
+	}	
+	
+  }
 
 
 d3.json("data/pl.json",function(d){
