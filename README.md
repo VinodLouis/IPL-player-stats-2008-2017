@@ -9,5 +9,5 @@ Usage:
 * On hover you can see few details in tooltip and on click a summary of that view/year will appear
 * To see details stats of all years user can click to see all time stats
 
-DEMO [SEE HERE LIVE](http://www.vinodlouis.in/ipl-player-stats-2008-2017/)
+DEMO [SEE HERE LIVE](http://www.vinodlouis.com/demos/ipl-player-stats-2008-2017/)
 ![Sample Data](https://raw.githubusercontent.com/VinodLouis/IPL-player-stats-2008-2017/master/images/final.png)
