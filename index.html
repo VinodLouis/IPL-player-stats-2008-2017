@@ -487,7 +487,7 @@ Usage :
     }
 
     function displayData(pld) {
-        $("#plImg").html("<img class='t-img' onerror='imgError(this);' src='http://iplstatic.s3.amazonaws.com/players/210/" + pld.data.player.id + ".png'></img>")
+        $("#plImg").html("<img class='t-img' onerror='imgError(this);' src='https://documents.iplt20.com/playerheadshot/ipl/210/" + pld.data.player.id + ".png'></img>")
         var s = "<div>" + pld.data.player.fullName + "</div><div>" + pld.data.player.nationality + "&nbsp;&nbsp;" + ((new Date()).getFullYear() - (new Date(pld.data.player.dateOfBirth)).getFullYear()) + "Years</div>"
 
         s += "<div>" + pld.parent.parent.data.name + "&nbsp;&nbsp;" + pld.parent.data.team.team.fullName + "</div>"
